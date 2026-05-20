@@ -1,0 +1,1 @@
+Archivo temporizador.js eliminado. Toda la lógica de temporizador/autoplay está ahora en galeria.js.
